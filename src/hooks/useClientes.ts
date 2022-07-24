@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 import ColecaoCliente from "../backend/db/ColecaoCliente"
 import Cliente from "../core/Cliente"
 import ClienteRepositorio from "../core/ClienteRepositorio"
-import useTabelaOuForm from "./useTabelaouForm"
+import useTabelaOuForm from "./useTabelaOuForm"
 
 export default function useClientes() {
     const repo: ClienteRepositorio = new ColecaoCliente()

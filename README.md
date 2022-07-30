@@ -1,5 +1,10 @@
 Link: https://projeto-cadastro-simple-nextjs-19l5oimln-tiagodepd.vercel.app/
 
+O projeto serviu para eu entender o funcionamento e treinar o desenvolvimento das quatro operações básicas do CRUD (Create, Read, Update and Delete). Criamos a tabela, o formulário e a navegação entre os componentes. Usamos hooks personalizados, TypeScript, React, Next.js, TailwindCSS, e integramos com o Firebase (p/ back-end).
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
